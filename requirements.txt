@@ -1,0 +1,14 @@
+docx2txt==0.8
+matplotlib==3.7.0
+nltk==3.7
+numpy==1.23.5
+pandas==1.5.3
+PyPDF2==3.0.1
+python_docx==0.8.11
+pywin32==306
+scikit_learn==1.2.1
+seaborn==0.12.2
+spacy==3.5.3
+textblob==0.17.1
+textract==1.6.5
+wordcloud==1.9.2
